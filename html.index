@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chicken Road Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Chicken Road Gaming Guide</h1>
+    <p>Simple insights into modern online gameplay learning</p>
+  </header>
+
+  <main>
+
+    <section>
+      <h2>About This Topic</h2>
+      <p>
+        Many players now prefer simple guides before trying new online games.
+        Platforms like Chicken Road InOut UK
+        help users understand basic gameplay mechanics in an easy way.
+      </p>
+    </section>
+
+    <section>
+      <h2>Learn & Explore</h2>
+      <p>
+        If you're interested in trying or learning more, you can
+        <a href="http://chickenroadinout.uk" target="_blank">Chicken Road play online</a>
+        and explore how modern gaming systems are explained in simple terms.
+      </p>
+    </section>
+
+    <section>
+      <h2>Why It Matters</h2>
+      <ul>
+        <li>Easy to understand gameplay</li>
+        <li>Beginner-friendly explanations</li>
+        <li>Quick access to information</li>
+        <li>Mobile-friendly experience</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 Gaming Guide Project</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
